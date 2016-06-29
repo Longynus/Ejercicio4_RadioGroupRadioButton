@@ -31,12 +31,12 @@ public class MainActivity extends AppCompatActivity {
         int nro1=Integer.parseInt(et1.getText().toString());
         int nro2=Integer.parseInt(et2.getText().toString());
 
-        if (r1.isChecked()==true){
+        if (r1.isChecked()){
             int suma=nro1+nro2;
             String res= String.valueOf(suma);
             tv3.setText(res);
         } else
-            if (r2.isChecked()==true){
+            if (r2.isChecked()){
                 int resta=nro1-nro2;
                 String res=String.valueOf(resta);
                 tv3.setText(res);

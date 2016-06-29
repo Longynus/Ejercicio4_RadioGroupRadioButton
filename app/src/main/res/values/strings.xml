@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RadioGroupRadioButton</string>
+    <string name="tv1">Ingrese primer valor</string>
+    <string name="tv2">Ingrese segundo valor</string>
+    <string name="r1">sumar</string>
+    <string name="r2">restar</string>
+    <string name="button">OPERAR</string>
+    <string name="tv3">RESULTADO</string>
+
 </resources>
