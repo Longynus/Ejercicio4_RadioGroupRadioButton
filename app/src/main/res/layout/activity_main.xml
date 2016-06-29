@@ -67,8 +67,8 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="New RadioButton"
-            android:id="@+id/radioButton2"
+            android:text="@string/r2"
+            android:id="@+id/r2"
             android:checked="false" />
     </RadioGroup>
 
